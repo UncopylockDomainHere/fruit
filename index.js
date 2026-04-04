@@ -1,4 +1,4 @@
-System.register(["./application.js"], function (_export, _context) {
+System.register(["prokid8467-collab/fruit/application.js"], function (_export, _context) {
   "use strict";
 
   var createApplication, canvas, $p, bcr;
