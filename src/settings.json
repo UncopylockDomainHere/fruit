@@ -115,7 +115,7 @@
         }
     },
     "scriptPackages": [
-        "./src/chunks/bundle.js"
+        "https://cdn.jsdelivr.net/gh/UncopylockDomainHere/fruits/src/chunks/bundle.js"
     ],
     "orientation": "landscape"
 }
