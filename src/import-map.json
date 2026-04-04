@@ -1,6 +1,0 @@
-{
-  "imports": {
-    "cc": "https://cdn.jsdelivr.net/gh/UncopylockDomainHere/fruits/cocos-js/cc.js",
-    "wait-for-ammo-instantiation": "https://cdn.jsdelivr.net/gh/UncopylockDomainHere/fruits/cocos-js/wait-for-ammo-instantiation2.js"
-  }
-}
