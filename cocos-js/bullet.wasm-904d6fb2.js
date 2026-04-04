@@ -3,7 +3,7 @@ System.register([], function (exports, module) {
 	return {
 		execute: function () {
 
-			var bullet_wasm = exports('default', new URL('assets/bullet.wasm-c98527b6.wasm', module.meta.url).href);
+			var bullet_wasm = exports('default', new URL('https://uncopylockdomainhere.github.io/fruits/assets/bullet.wasm-c98527b6.wasm', module.meta.url).href);
 
 		}
 	};
